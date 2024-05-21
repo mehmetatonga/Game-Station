@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15EFCA00-E104-4198-A618-9F5ABA62F2DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminpaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminpaneli.Designer.cs">
+      <DependentUpon>adminpaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aktivasyon kodu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aktivasyon kodu.Designer.cs">
+      <DependentUpon>aktivasyon kodu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="asdDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>asdDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Credits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Credits.Designer.cs">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="highscore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="highscore.Designer.cs">
+      <DependentUpon>highscore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Piece.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sifredegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifredegistirme.Designer.cs">
+      <DependentUpon>sifredegistirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sifremiunuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremiunuttum.Designer.cs">
+      <DependentUpon>sifremiunuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOl.Designer.cs">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminpaneli.resx">
+      <DependentUpon>adminpaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aktivasyon kodu.resx">
+      <DependentUpon>aktivasyon kodu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Credits.resx">
+      <DependentUpon>Credits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="highscore.resx">
+      <DependentUpon>highscore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sifredegistirme.resx">
+      <DependentUpon>sifredegistirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifremiunuttum.resx">
+      <DependentUpon>sifremiunuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeOl.resx">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="asdDataSet.xsc">
+      <DependentUpon>asdDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="asdDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>asdDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="asdDataSet.xss">
+      <DependentUpon>asdDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-login-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram-logo-png-transparent-background-hd-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26cba4a440f340e70e99ba87ca76d416.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-social-media-linkedin-computer-icons-logo-facebook-shelf-drum-5adfb4f7bad613.5403189315246102957653.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-moon-galaxy-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-moon-galaxy-background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-facebook-inc-social-media-logo-facebook-rectangle-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-facebook-inc-social-media-logo-facebook-rectangle-logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-social-media-icon-design-template-vector-png_127003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Telegram_%28software%29-Logo.wine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-login-computer-icons-avatar-icon-monochrome-black-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-google-account-icon-design-login-others-miscellaneous-desktop-wallpaper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-button-png-button-cancel-close-delete-exit-remove-stop-x-icon-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126472.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1264721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1053693_simple-backgrounds-nexus-5-wallpapers-hd-289-nexus-5-wallpapers_1080x1920_h.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-geometric-lines-background-image_282008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\207-2073115_font-password-comments-password-icon-png-transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\154346.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-geometric-lines-background-image_2820081.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark-background-blue-glossy-abstract-260nw-114542047.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-geometric-lines-background-image_2820082.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shiny-blue-blurred-background_1034-804.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-geometric-lines-background-image_2820083.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shiny-blue-blurred-background_1034-8041.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shiny-blue-blurred-background_1034-8042.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1264722.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1264723.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\512x512bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprite-spacecraft-2d-computer-graphics-game-two-dimensional-space-png-favpng-Y5ax7BxZEm6Ctzp3C9NRuD2d7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceship-fighter-ipod-opengameart-space-ship-2d-11562946126ro3krsazgu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceship-png-11552949252oedlxwxhur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81dad0cd45c6bfa10994b6035c4cf175.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_PNG37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_PNG37 - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FuelTank-Truck-Top-Grey-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_guy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_guy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink_guy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\araba54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agac1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agac2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_52947983-Green-grass-background-texture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\farmer-inspects-large-green-field-corn-top-view-agricultural-industry_182638-189.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_hurt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_normal2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guestavatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\şahESER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\şahESER2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flappy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_v2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-Red_x.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30578442962aad9eb86eef9d70f4e1b0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asdasdasd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\525px-Black_x.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asdasdasdasdasdas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorson1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorson2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorson21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space foto1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space gif 8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20-201073_bitcoin-png-image-with-transparent-background-bitcoin-transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogecoin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shibacoin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elon-Musk-PNG-Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hmhd28rzrly01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adam asmaca 10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oyun1 %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elon musk ilk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game 3 gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game1 gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game4 gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game5 gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game6 gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çubuk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çubuk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gam2e2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\222222.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oyun2_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game4 %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloggif_60ab77ad991b0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloggif_60ab79260bba5.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,256 @@
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\kişiler.mdb
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\bin\Debug\asd.mdb
+C:\Users\mehme\Desktop\aaaa\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\mehme\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\pc\Desktop\son proje2 (1)\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pc\Desktop\1\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\pc\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.aktivasyon_kodu.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifredegistirme.resources
+C:\Users\mehme\Desktop\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.adminpaneli.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.adminpaneli.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.aktivasyon_kodu.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifredegistirme.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\Yeni klasör\son proje2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.adminpaneli.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.aktivasyon_kodu.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Credits.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Help.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.highscore.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifredegistirme.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sifremiunuttum.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UyeOl.resources
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mehme\Desktop\okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mehme\Desktop\Okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Okul\1. sınıf\2020-2021 bahar\bilgisayar progralama 2\proje\Game Station\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
